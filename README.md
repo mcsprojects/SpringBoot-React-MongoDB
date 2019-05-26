@@ -18,7 +18,24 @@ Servidor embebido: Apache Tomcat
 **Para el backend:**
 
 1. En el directorio raíz, ejecutar `mvn spring-boot:run`
-2. La aplicación se iniciará en localhost:8095  
+2. La aplicación se iniciará en localhost:8095
+
+**Capturas de pantalla:**
+
+![Test Image 1](/screenshots/Inicio.png)
+---
+
+![Test Image 2](/screenshots/AñadirIncidencia.png)
+---
+
+![Test Image 3](/screenshots/Lista.png)
+---
+
+![Test Image 4](/screenshots/Detalles.png)
+---
+
+![Test Image 5](/screenshots/Actualizar.png)
+
 
 
 
