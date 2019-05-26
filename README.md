@@ -1,14 +1,14 @@
 ## Gestor de incidencias
 * Ejemplo de CRUD con Spring Boot 2 + React + MongoDB
 
-#### Tecnologías empleadas:
+#### Tecnologías utilizadas:
  
-Spring Boot 2.1.4.RELEASE
-Versión de MongoDB shell versión: 2.6.10
-Versión de MongoDB: 2.6.10
-react 16.8.6
-Bootstrap 4.3.1  
-Servidor embebido: Apache Tomcat
+- Spring Boot 2.1.4.RELEASE
+- Versión de MongoDB shell versión: 2.6.10
+- Versión de MongoDB: 2.6.10
+- React 16.8.6
+- Bootstrap 4.3.1  
+- Servidor embebido: Apache Tomcat
 
 **Para el frontend:**
 
