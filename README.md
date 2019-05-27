@@ -20,7 +20,7 @@
 1. En el directorio raíz, ejecutar `mvn spring-boot:run`
 2. La aplicación se iniciará en localhost:8095
 
-**Capturas de pantalla:**
+**Capturas de pantalla ( en la carpeta `/screenshots`):**
 
 ![Test Image 1](/screenshots/Inicio.png)
 ---
@@ -29,17 +29,13 @@
 ---
 
 ![Test Image 3](/screenshots/Lista.png)
----
-
-![Test Image 4](/screenshots/Detalles.png)
----
-
-![Test Image 5](/screenshots/Actualizar.png)
 
 
 
 
-:
+
+
+
 
 
 
